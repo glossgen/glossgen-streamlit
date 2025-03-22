@@ -31,6 +31,8 @@ class Sidebar:
     def _render_about(self) -> None:
         """Render the about section"""
         with st.expander("About GlossGen"):
+            st.link_button("GlossGen Homepage", "https://glossgen.github.io/", use_container_width=True)
+
             st.markdown("""
             # GlossGen
             

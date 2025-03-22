@@ -161,4 +161,4 @@ Common issues and solutions:
 
 ---
 
-For more information, visit the [GlossGen GitHub repository](https://github.com/glossgen/glossgen_streamlit).
+For more information, visit the [GlossGen Homepage](https://glossgen.github.io/).
