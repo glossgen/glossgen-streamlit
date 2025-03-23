@@ -2,6 +2,24 @@
 
 GlossGen is an AI-powered data exploration and glossary generation tool that helps users understand and document their databases.
 
+## Contribute
+We welcome contributions to GlossGen! Whether you're fixing bugs, adding features, improving documentation, or suggesting enhancements, your help is appreciated.
+
+### How to Contribute
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/amazing-feature`)
+3. Make your changes
+4. Run tests to ensure everything works
+5. Commit your changes (`git commit -m 'Add amazing feature'`)
+6. Push to your branch (`git push origin feature/amazing-feature`)
+7. Open a Pull Request
+
+### Development Environment
+
+The project uses Docker for consistent development environments. To get started:
+
+
 ## Features
 
 - Connect to multiple database types (MySQL, PostgreSQL, SQL Server)
